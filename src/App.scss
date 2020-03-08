@@ -1,0 +1,86 @@
+* {
+  list-style: none;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-decoration: none;
+  color: black;
+  padding: 0;
+  margin: 0;
+  width: 1400px;
+  position: relative;
+}
+li {
+  display: inline;
+  top: -30px;
+  left: 950px;
+  justify-content: center;
+  padding-right: 20px;
+
+}
+header {
+  box-shadow: black;
+  height: 70px;
+}
+header h1, p, li {
+  left: 450px;
+}
+header a {
+  left:500px;
+  font-size: 18px;
+}
+header h1 {
+  font-size: 25px
+}
+header p {
+  font-size: 18px;
+}
+header a:hover {
+  color: orange;
+}
+main h2 {
+  text-align: center;
+  left: 200px;
+  top: 100px;
+  border-bottom: 1px solid black;
+}
+h3 {
+  font-size: 16px;
+  color: #fc5a5a;
+  display: absolute;
+  margin-bottom: 12px;
+  text-align: start;
+  left: 450px;
+  padding-left: 150px;
+}
+.button {
+  text-decoration: none;
+  display: inline-block;
+  padding: 0 12px;
+  background: #cccccc;
+  color: white;
+  text-transform: uppercase;
+  font-size: 12px;
+  line-height: 28px;
+  transition: .3s ease-in;
+  width: 70px;
+  top: 250px;
+}
+ main img {
+  display: block;
+  width: 500px;
+  height: 500px;
+ }
+ main img, h3, span, .button {
+  top: 100px;
+  left: 650px;
+ }
+ main span {
+  display: relative; 
+  left: 879px;
+  top: 70px;
+  margin-top: 15px;
+ }
+main a {
+  display: inline-block;
+  margin: 25px 159px;
+
+}
