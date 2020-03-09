@@ -1,5 +1,5 @@
 # Shop
-Shop created with React.js
+Shop created with React.js without backend, db :)
 
 
 npm init
